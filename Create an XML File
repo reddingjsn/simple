@@ -1,0 +1,30 @@
+<? xml version="1.0" ?>
+<forecast>
+	<dailyforecast>
+		<date>2018-01-02</date>
+		<description>sunny</description>
+		<maxTemp unit="C">25</maxTemp>
+		<minTemp unit="C">20</maxTemp>
+		<windSpeed unit="kph">12</windSpeed>
+		<danger>false</danger>
+	</dailyforecast>
+	<dailyforecast>
+		<date>2018-01-02</date>
+		<description>sunny</description>
+		<maxTemp unit="C">22</maxTemp>
+		<minTemp unit="C">19</maxTemp>
+		<windSpeed unit="kph">40</windSpeed>
+		<danger>true</danger>
+	</dailyforecast>
+	<dailyforecast>
+		<date>2018-01-02</date>
+		<description>sunny</description>
+		<maxTemp unit="C">21</maxTemp>
+		<minTemp unit="C">18</maxTemp>
+		<windSpeed unit="kph">20</windSpeed>
+		<danger>false</danger>
+	</dailyforecast>
+	<dailyforecast/>
+</forecast>
+
+
